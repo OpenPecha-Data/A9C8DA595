@@ -1,0 +1,20 @@
+id: A9C8DA595
+title: Toh_85-The_Question_of_Maitreya-v1
+type: translation
+pechas:
+- I9428569B
+- I777B7BB3
+source_metadata:
+  creationtool: 84000-translation-memory
+  creationtoolversion: 1.0.0.0
+  segtype: phrase
+  adminlang: en
+  srclang: bo
+  o-tmf: tei
+  datatype: Text
+  eft-text-id: UT22084-044-005
+  xmlns-eft: http://read.84000.co/ns/1.0
+  title: Toh_85-The_Question_of_Maitreya-v1
+alignment_to_base:
+  I9428569B/5212: A60F
+  I777B7BB3/2848: A60F
